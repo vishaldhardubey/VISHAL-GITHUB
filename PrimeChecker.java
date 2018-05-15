@@ -191,4 +191,4 @@ public class PrimeChecker {
       System.out.println("PRINTING RESULT USING PrimeChecker INSTANCE FUNCTION");
       System.out.println(primeChecker.toString());
    }
-}
+}// end of PrimeChecker class
